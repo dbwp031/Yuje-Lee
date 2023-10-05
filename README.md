@@ -1,5 +1,6 @@
 # 이유제 Yuje Lee
 안녕하세요. 서버 개발자 이유제입니다. 올바른 아키텍쳐 구축하는 것에 흥미를 느끼고 있습니다. DevOps, MLOps에 관심을 가지고 있습니다.
+
 ## 기술 스택
 <h3>Server</h3>
 <a href="https://www.java.com/ko/"><img src="https://img.shields.io/badge/Java-F58219?style=flat-square&logo=Java&logoColor=white"/></a>
@@ -30,3 +31,7 @@
 - 기술 블로그 | [https://dbwp031.tistory.com](https://dbwp031.tistory.com)
 - 알고리즘 학습  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbwp031)](https://solved.ac/dbwp031/)
+
+## Contact
+:email: dbwp031@gmail.com  
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" height="20"/> [LinkedIn Profile](https://www.linkedin.com/in/%EC%9C%A0%EC%A0%9C-%EC%9D%B4-a45678253/)
