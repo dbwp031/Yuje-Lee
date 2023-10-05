@@ -21,7 +21,7 @@
 
 
 ## 이력
-- 2023.09 ~ 현재 | [UMC](https://www.makeus.in/umc) Server - Spring 파트 활동
+- 2023.09 ~ 현재 | [UMC](https://www.makeus.in/umc) Server - Spring 파트 5기 활동
 - 2022.10 ~ 2023.04 | [NOTA](https://www.nota-teamblog.ai/post/internview-2) Model Compressor 팀 인턴
 - 2020.09 ~ 2022.09 | [MLVC](https://sites.google.com/khu.ac.kr/mlvclab/) LAB 서버 관리자, 학부 연구생
 - 2019.03 ~ 2023.08 | 경희대학교 컴퓨터공학과 학사 졸업
