@@ -9,7 +9,7 @@
 
 </div>
 
-## 기술 스택
+## Experiences
 <h3>Server</h3>
 <a href="https://www.java.com/ko/"><img src="https://img.shields.io/badge/Java-F58219?style=flat-square&logo=Java&logoColor=white"/></a>
 <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/SpringBoot-6AAE3D?style=flat-square&logo=SpringBoot&logoColor=white"/></a> 
@@ -23,7 +23,13 @@
 <a href = "https://github.com/Hun-Se"><img alt="GitHub" src ="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=python&logoColor=white"/>
 <a href = "https://github.com/Hun-Se"><img alt="GitHub" src ="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=python&logoColor=white"/>
 
-## Culture
+<h3>Cowork</h3>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+</div>
+<h3>Culture</h3>
 
 ![Static Badge](https://img.shields.io/badge/Agile-a)
 ![Static Badge](https://img.shields.io/badge/DailyMeeting-a)
