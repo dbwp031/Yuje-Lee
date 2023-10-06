@@ -1,6 +1,14 @@
 # 이유제 Yuje Lee
 안녕하세요. 서버 개발자 이유제입니다. 올바른 아키텍쳐 구축하는 것에 흥미를 느끼고 있습니다. DevOps, MLOps에 관심을 가지고 있습니다.
 
+<div align=center>
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-orange?style=flat-square&logo=tistory&link=https://dbwp031.tistory.com)](https://dbwp031.tistory.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%9C%A0%EC%A0%9C-%EC%9D%B4-a45678253/)](https://www.linkedin.com/in/%EC%9C%A0%EC%A0%9C-%EC%9D%B4-a45678253/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:dbwp031@gmail.com)
+
+</div>
+
 ## 기술 스택
 <h3>Server</h3>
 <a href="https://www.java.com/ko/"><img src="https://img.shields.io/badge/Java-F58219?style=flat-square&logo=Java&logoColor=white"/></a>
@@ -14,6 +22,12 @@
 <a href = "https://github.com/Hun-Se"><img alt="GitHub" src ="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=python&logoColor=white"/>
 <a href = "https://github.com/Hun-Se"><img alt="GitHub" src ="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=python&logoColor=white"/>
 <a href = "https://github.com/Hun-Se"><img alt="GitHub" src ="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=python&logoColor=white"/>
+
+## Culture
+
+![Static Badge](https://img.shields.io/badge/Agile-a)
+![Static Badge](https://img.shields.io/badge/DailyMeeting-a)
+
   
 ## 프로젝트
 - 2023.09 ~ 현재 | [우리끼리 월드컵](https://ourworldcup.store)서비스 개발 | [프로젝트 소개](https://github.com/dbwp031/OurWorldcup)
@@ -32,6 +46,3 @@
 - 알고리즘 학습  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbwp031)](https://solved.ac/dbwp031/)
 
-## Contact
-:email: dbwp031@gmail.com  
-<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" height="20"/> [LinkedIn Profile](https://www.linkedin.com/in/%EC%9C%A0%EC%A0%9C-%EC%9D%B4-a45678253/)
