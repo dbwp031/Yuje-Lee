@@ -4,7 +4,7 @@
 <div align=center>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-orange?style=flat-square&logo=tistory&link=https://dbwp031.tistory.com)](https://dbwp031.tistory.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%9C%A0%EC%A0%9C-%EC%9D%B4-a45678253/)](https://www.linkedin.com/in/%EC%9C%A0%EC%A0%9C-%EC%9D%B4-a45678253/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%9C%A0%EC%A0%9C-%EC%9D%B4-a45678253/)](https://www.linkedin.com/in/yuje-lee-a45678253/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:dbwp031@gmail.com)
 
 </div>
