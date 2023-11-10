@@ -18,10 +18,10 @@
 <a href="https://gradle.org/"><img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/></a>
 <a href="https://aws.amazon.com/ko/?nc2=h_lg"><img src="https://img.shields.io/badge/AWS-F89501?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
 <h3>ML</h3>
-<a href = "https://github.com/Hun-Se"><img alt="GitHub" src ="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white"/>
-<a href = "https://github.com/Hun-Se"><img alt="GitHub" src ="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=python&logoColor=white"/>
-<a href = "https://github.com/Hun-Se"><img alt="GitHub" src ="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=python&logoColor=white"/>
-<a href = "https://github.com/Hun-Se"><img alt="GitHub" src ="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=python&logoColor=white"/>
+<a href = ""><img alt="GitHub" src ="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white"/>
+<a href = ""><img alt="GitHub" src ="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=python&logoColor=white"/>
+<a href = ""><img alt="GitHub" src ="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=python&logoColor=white"/>
+<a href = ""><img alt="GitHub" src ="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=python&logoColor=white"/>
 
 <h3>Cowork</h3>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
