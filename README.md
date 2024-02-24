@@ -36,13 +36,15 @@
 
   
 ## 프로젝트
-- 2023.09 ~ 현재 | [우리끼리 월드컵](https://ourworldcup.store)서비스 개발 | [프로젝트 소개](https://github.com/dbwp031/OurWorldcup)
+- 2023.12 ~ 2024.02 | [스포너스](https://github.com/spon-us) 백엔드 개발 | 백엔드 리더
+- 2023.09 ~ 2023.11 | [우리끼리 월드컵](https://ourworldcup.store) 개발 | [프로젝트 소개](https://github.com/dbwp031/OurWorldcup)
 - 2022.12 ~ 2023.01 | Light-weight YOLOv5 on RZ/V2M
 - 2022.10 ~ 2022.12 | 스마트 카메라용 고효율 Programmable NPU 및 AI 카메라 모듈 개발
 
 
 ## 이력
-- 2023.09 ~ 현재 | [UMC](https://www.makeus.in/umc) Server - Spring 파트 5기 활동
+- 2023.11 ~ 2026.01 | 산업기능요원
+- 2023.09 ~ 2024.02 | [UMC](https://www.makeus.in/umc) Server - Spring 파트 5기 활동
 - 2022.10 ~ 2023.04 | [NOTA](https://www.teamblog.nota.ai/post/internview-2) Model Compressor 팀 인턴
 - 2020.09 ~ 2022.09 | [MLVC](https://sites.google.com/khu.ac.kr/mlvclab/) LAB 서버 관리자, 학부 연구생
 - 2019.03 ~ 2023.08 | 경희대학교 컴퓨터공학과 학사 졸업
