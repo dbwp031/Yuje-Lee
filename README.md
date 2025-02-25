@@ -37,7 +37,6 @@
   
 ## 프로젝트
 - 2023.12 ~ 2024.02 | [스포너스, [UMC 5기 1등상]](https://github.com/spon-us) 백엔드 개발 | 백엔드 리더
-- 2023.09 ~ 2023.11 | [우리끼리 월드컵](https://ourworldcup.store) 개발 | [프로젝트 소개](https://github.com/dbwp031/OurWorldcup)
 - 2022.12 ~ 2023.01 | Light-weight YOLOv5 on RZ/V2M
 - 2022.10 ~ 2022.12 | 스마트 카메라용 고효율 Programmable NPU 및 AI 카메라 모듈 개발
 
